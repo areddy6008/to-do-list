@@ -41,7 +41,7 @@ A simple and responsive To-Do List application built using HTML, CSS, and JavaSc
 
 ## Demo
 
-You can check out a live demo of this Tic-Tac-Toe game [here](https://areddy6008.github.io/to-do-list/).
+You can check out a live demo of this To Do List [here](https://areddy6008.github.io/to-do-list/).
 
 ## Cloning from GitHub Repository
 

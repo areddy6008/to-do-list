@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game
+# TO-DO LIST
 
 A simple and responsive To-Do List application built using HTML, CSS, and JavaScript. Users can add, complete, delete, and store tasks locally in the browser using localStorage.
 
